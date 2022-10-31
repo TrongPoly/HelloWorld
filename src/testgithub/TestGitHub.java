@@ -4,7 +4,7 @@ public class TestGitHub {
        int i = 0;
        while(i<6){
            System.out.println("Trong"+i);
-           i+=2;
+           i++;
        }
     }
     
